@@ -15,7 +15,8 @@ function Header() {
             <nav className="header-nav">
                 <ul>
                     <li><Link to="/">Главная</Link></li>
-                    <li><Link to="/temp1">Заглушка 1</Link></li>
+                    <li><Link to="/redux/checkbox">Redux и чекбокс</Link></li>
+                    <li><Link to="/dialogs">Диалоги</Link></li>
                     <li><Link to="/temp2">Заглушка 2</Link></li>
                     <li><Link to="/temp3">Заглушка 3</Link></li>
                 </ul>
