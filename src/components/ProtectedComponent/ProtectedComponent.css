@@ -1,0 +1,22 @@
+/* components/ProtectedComponent/ProtectedComponent.css */
+.protected-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.user-info {
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 6px;
+    margin-top: 1.5rem;
+}
+
+.user-info p {
+    font-size: 1.1rem;
+    margin: 0.5rem 0;
+    color: #333;
+}
